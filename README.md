@@ -1,6 +1,6 @@
 # Anomaly Detection in the Service Mesh
 
-This Jupyter Notebook contains the dataset and machine learning model used in [the accompanying blog post](https://www.fosdick.io/2018/04/17/anomaly-detection-in-the-service-mesh.html).
+This Jupyter Notebook contains the dataset and machine learning model used in [the accompanying blog post](https://www.fosdick.io/2018/04/17/anomaly-detection-in-the-service-mesh.html).  You can either run it directly in your browser [here](https://github.com/fosdickio/blob/master/AnomalyDetectionInTheServiceMesh.ipynb) or follow the instructions below to run it locally.
 
 ## Requirements
 - Jupyter
